@@ -24,16 +24,48 @@ Campos identificados no cadastro desse site:
 * Telefone do destinatário.
 
 <img src="img/vans.png" width="50%">
+<img src="img/vans2.png" width="50%">
  
 ## `2º Site: Adidas` 
 Campos identificados no cadastro desse site:
 
-Primeira aba: Email e senha.
- Segunda aba: nome e sobrenome, CPF, endereço, CEP, número, informações adicionais, bairro, cidade, estado.
+### `Primeira aba`
+* Email 
+* senha
+### `Segunda aba`
+* Nome 
+* Sobrenome
+* CPF
+* Endereço 
+* CEP
+* Número
+* Informações adicionais
+* Bairro
+* Cidade
+* Estado.
+
+ <img src="img/adidas.png" width="50%">
+ <img src="img/adidas 2.png" width="50%">
 
  
 ## `3º Site: Dc shoes`
 Campos identificados no cadastro desse site:
 
-Primeira aba: nome completo, CPF, data de nascimento, telefone de contato fixo e celular, sexo, Email, senha e confirmação de senha. 
-Segunda aba: CEP, número, complemento, referência, identificação, nome do destinatário 
+### `Primeira aba:`
+ * Nome completo
+ * CPF
+ * Data de nascimento
+ * Telefone de contato fixo e celular
+ * Sexo
+ * Email
+ * Senha 
+ * Confirmação de senha. 
+### `Segunda aba`
+* CEP
+* Número
+* Complemento
+* Referência
+* Identificação
+* Nome do destinatário 
+
+<img src= "img/Dc.png" width="40%">
